@@ -3,3 +3,12 @@
     justify-content: center;
     align-items: center;
 }
+.text-center{
+    text-align: center;
+}
+.my1{
+    margin: 1px;
+}
+.my2{
+    margin: 2px;
+}
